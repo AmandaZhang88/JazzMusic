@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/picture">
+        <file>Terri.jpg</file>
+    </qresource>
+    <qresource prefix="/sounds">
+        <file>music/BuDumTssJokeDrumA2Sound.mp3</file>
+        <file>music/DrumSticksHitA.mp3</file>
+        <file>music/FloorTomDrumHit.mp3</file>
+        <file>music/SmallTomDrumHit3A.mp3</file>
+        <file>music/DrummingJungleMusicMade.mp3</file>
+    </qresource>
+</RCC>
