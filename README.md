@@ -1,0 +1,3 @@
+# JazzMusic
+Individual Project - What's Jazz got to do with IT?   IDE: Qt 5 Creator Implement: QSS, drum sounds from https://www.fesliyanstudios.com/royal...
+Youtube : https://www.youtube.com/watch?v=qSdABo3suas
